@@ -1,7 +1,7 @@
 
-baseURL = "https://bornstarai-blog.pages.dev/"
+baseURL = "https://xrealityai-blog.pages.dev/"
 languageCode = "en-us"
-title = "BornstarAI Blog"
+title = "xRealityAI Blog"
 theme = "ananke"
 buildFuture = true
 paginate = 10
