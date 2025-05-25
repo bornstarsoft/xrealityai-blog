@@ -1,0 +1,10 @@
+
+baseURL = "https://bornstarai-blog.pages.dev/"
+languageCode = "en-us"
+title = "BornstarAI Blog"
+theme = "ananke"
+buildFuture = true
+paginate = 10
+
+[params]
+  mainSections = ["posts"]
