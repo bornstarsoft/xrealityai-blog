@@ -1,10 +1,14 @@
 
-baseURL = "https://xrealityai-blog.pages.dev/"
+baseURL = "https://xrealityai.com/"
 languageCode = "en-us"
-title = "xRealityAI Blog"
+title = "xRealityAI"
 theme = "ananke"
-buildFuture = true
-paginate = 10
+
+enableRobotsTXT = true
+buildFuture = false
+
+[pagination]
+pagerSize = 10
 
 [params]
   mainSections = ["posts"]
